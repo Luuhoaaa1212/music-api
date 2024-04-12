@@ -1,0 +1,562 @@
+{
+  "category": [
+    {
+      "name": "Bolero",
+      "id": 1
+    },
+    {
+      "name": "Dance/Electronic",
+      "id": 2
+    },
+    {
+      "name": "Remix",
+      "id": 3
+    },
+    {
+      "name": "Tâm Trạng Tan Chậm",
+      "id": 4
+    }
+  ],
+  "playList": [
+    {
+      "id": 1,
+      "img": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_webp/cover/b/0/2/0/b0205ddce0cee4f1e31f9f49af39f4e1.jpg",
+      "title": "EDM NOW",
+      "like": 50000,
+      "updated": "22/09/2023",
+      "id_category": 2
+    },
+    {
+      "id": 2,
+      "img": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_webp/cover/9/e/8/c/9e8c67c23bace04d5e0e99b850ced883.jpg",
+      "title": "Nhạc Trẻ Vinahouse",
+      "like": 20000,
+      "updated": "22/09/2023",
+      "id_category": 3
+    },
+    {
+      "id": 5,
+      "img": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_webp/cover/7/6/c/7/76c747ffc5ad50f1bba57934eaec1213.jpg",
+      "title": "Bolero mới nhất",
+      "like": 5000,
+      "updated": "22/09/2023",
+      "id_category": 1
+    },
+    {
+      "id": 3,
+      "img": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_webp/cover/6/3/d/b/63dbc0ec621145ee88535a678774da33.jpg",
+      "title": "Today's EDM Hits",
+      "like": 222000,
+      "updated": "25/09/2023",
+      "id_category": 2
+    },
+    {
+      "id": 4,
+      "img": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_webp/cover/7/6/3/0/763018355f5d0e5747dc9404192a8e72.jpg",
+      "title": "EDM Samplings",
+      "like": 25000,
+      "updated": "25/09/2023",
+      "id_category": 2
+    },
+    {
+      "id": 6,
+      "img": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_webp/cover/9/5/9/d/959d539e223df7b3fefa0fe21b96be25.jpg",
+      "title": "EDM Việt Gây Nghiện",
+      "like": 70000,
+      "updated": "22/09/2023",
+      "id_category": 2
+    },
+    {
+      "id": 7,
+      "img": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_webp/cover/a/7/e/f/a7eff06ffdc4981ebd498674c5502220.jpg",
+      "title": "tiktok remix",
+      "like": 100000,
+      "updated": "22/09/2023",
+      "id_category": 3
+    },
+    {
+      "id": 8,
+      "img": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_webp/cover/0/0/2/2/002212df89c3a2cc6c4caff37b63be95.jpg",
+      "title": "remix 50",
+      "like": 60000,
+      "updated": "22/09/2023",
+      "id_category": 3
+    },
+    {
+      "id": 9,
+      "img": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_webp/cover/a/1/1/a/a11a5c43ddcbbde167ab9ba3c90e6090.jpg",
+      "title": "EDM REMIX",
+      "like": 120000,
+      "updated": "22/09/2023",
+      "id_category": 3
+    },
+    {
+      "img": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/a/9/9/2/a9924a699be6554ea10f728839670ecd.jpg",
+      "title": "Màu của nỗi buồn",
+      "like": 0,
+      "updated": "16/10/2023",
+      "id_category": 4,
+      "id": 10
+    },
+    {
+      "img": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/cover/1/5/9/2/159226aaebc0421c28d4921c041dc862.jpg",
+      "title": "bolero hay nhất",
+      "like": 0,
+      "updated": "16/10/2023",
+      "id_category": 1,
+      "id": 11
+    },
+    {
+      "img": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/0/7/6/f/076f5bdd0b418f9ffcd1186aca29730e.jpg",
+      "title": "Today's EDM Hits",
+      "like": 0,
+      "updated": "16/10/2023",
+      "id_category": 2,
+      "id": 12
+    },
+    {
+      "img": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/cover/4/0/7/0/40706e438a0bf9773986b902d2b87101.jpg",
+      "title": "Thanh âm indie Buồn",
+      "like": 0,
+      "updated": "16/10/2023",
+      "id_category": 4,
+      "id": 13
+    },
+    {
+      "img": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/cover/4/b/d/5/4bd5807955487812843330ea585e23f3.jpg",
+      "title": "tâm trạng tan chậm",
+      "like": 0,
+      "updated": "16/10/2023",
+      "id_category": 4,
+      "id": 14
+    },
+    {
+      "img": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/cover/d/4/e/3/d4e3607e272ee2425ab0470b1746b773.jpg",
+      "title": "một bước yêu vạn dặm đau",
+      "like": 0,
+      "updated": "16/10/2023",
+      "id_category": 4,
+      "id": 15
+    },
+    {
+      "img": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/0/5/6/0/05609750506ec1bdb603e91706253766.jpg",
+      "title": "khác biệt to lớn",
+      "like": 0,
+      "updated": "16/10/2023",
+      "id_category": 4,
+      "id": 16
+    },
+    {
+      "img": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/f/d/5/a/fd5aaf72b279237886e1717d32b75d13.jpg",
+      "title": "nhạc bolero hôm nay",
+      "like": 0,
+      "updated": "16/10/2023",
+      "id_category": 1,
+      "id": 17
+    }
+  ],
+  "singer": [
+    {
+      "id": 1,
+      "name": "quỳnh trang",
+      "img": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_webp/avatars/2/2/d/8/22d88eead18cdd6d76a2773ec5fe8834.jpg",
+      "info": "Từ bé, Quỳnh Trang đã mơ ước sau này sẽ trở thành ca sĩ, diễn viên. Từ lúc 5 - 6 tuổi, cô đã cầm micro hát các bài mang âm hưởng dân ca và Bolero.Quỳnh Trang theo học tại ĐH Sân Khấu Điện Ảnh TP.HCM.Cô quay MV đầu tay \"Tình Mẹ\" (Ngọc Sơn) theo nguyện vọng của bà ngoại nhưng không ngờ lại được cộng đồng mạng đón nhận nhiệt tình.Năm 2016, cô được ca sĩ Phi Nhung nhận làm học trò. Từ đó cô càng trưởng thành và chuyên nghiệp hơn trong âm nhạc.Ngoài thể hiện thành công các ca khúc theo phong cách truyền thống, Quỳnh Trang còn đưa làn gió mới vào bolero với MV liên khúc \"Gục Ngã Vì Yêu\" kết hợp 30 ca khúc bolero quen thuộc.",
+      "folow": 165994
+    },
+    {
+      "name": "mạnh quỳnh",
+      "img": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_webp/avatars/d/d/4/8/dd480f10893eb35ade277cbe1bd2bd8a.jpg",
+      "info": "Mạnh Quỳnh là một hiện tượng trong làng ca nhạc Việt Nam tại hải ngoại. Chỉ mới xuất hiện từ hơn 3 năm nay, nhưng người nam ca sĩ này đã thu thanh khoảng trên 50 tựa CD với một số bán cao. Điểm đặc biệt là trong thời gian đầu tiên tuy anh chưa xuất hiện trên video, nhưng tiếng hát anh đã được mọi người biết đến ngay sau khi tung ra CD thứ 3. Một điều may mắn cho Mạnh Quỳnh là anh được mẹ khuyến khích nhiều trên con đường nghệ thuật.Mạnh Quỳnh tên thật là Nguyễn Thanh Dũng, sinh năm 72 tại Biên Hòa, đến năm 15 tuổi lên Sài Gòn để theo bậc trung học tại đây. Sau khi lên Sài Gòn, ngoài việc học văn hóa ở trường Trần Khai Nguyên, một điều không ngờ là Mạnh Quỳnh còn đi học tư về cổ nhạc với nghệ sĩ nổi danh Ngọc Ẩn ở gần nhà...Vào tháng 9 năm 1992, Mạnh Quỳnh cùng mẹ sang sinh sống tại Mỹ. Trong gần 2 năm ở New York, Mạnh Quỳnh vừa đi làm ở một hãng điện tử vừa đi học thêm Anh Văn vào buổi tối. Chỉ có hai mẹ con đùm bọc nhau nên Mạnh Quỳnh phải tạm bỏ dở việc học hành. Cuối cùng hai mẹ con quyết định dời về tiểu bang Minnesota và sống tại thành phố Burnville cho đến nay. Tại đây Mạnh Quỳnh ghi tên học ngành điện toán song song với việc học về sáng tác, luyện thanh và guitar tại nhà do giáo sư người Mỹ hướng dẫn... Chỉ khoảng một năm sau, trong những lần hát giúp vui cho đám cưới, Mạnh Quỳnh đã được sự khuyến khích của bạn bè và anh đã thu một số nhạc phẩm và gởi sang trung tâm Người Đẹp Bình Dương. Giám đốc trung tâm này đã mời anh ký hợp đồng ngay sau đó và anh đã chính thức bước chân vào con đường ca nhạc.Từ năm 97, Mạnh Quỳnh bắt đầu được mời xuất hiện trên những chương trình video do trung tâm Tình thực hiện. Sau vài lần đầu tiên góp mặt Mạnh Quỳnh nhận được rất nhiều lời mời đi trình diễn tại khắp nơi có người Việt cư ngụ. Mạnh Quỳnh song ca thành công và ăn ý nhất trên sân khấu là Phi Nhung. Ngoài ra còn có các nữ danh ca khác là Như Quỳnh, Hương Thủy, Tâm Đoan,...Mạnh Quỳnh cho biết chỉ có một người bạn gái thân là nữ ca sĩ Phi Nhung, cũng là một nữ ca sĩ rẻ được nhiều người mến mộ qua loại nhạc trình bày giống Mạnh Quỳnh. Cả hai vẫn thường đi lưu diễn chung và tỏ ra rất ăn ý trong những nhạc phẩm trình bày song ca.Ca khúc thành công của anh là \"Vợ tôi\", \"Bến sông chờ\", \"Viết thư tình\", \"Vòng nhẫn cưới\", \"Người phu kéo mo cau\", \"Tình nghèo có nhau\",...Album phát hành gần đây nhất của Mạnh Quỳnh là Sao lòng còn thương ( 2016)",
+      "folow": 326343,
+      "id": 2
+    },
+    {
+      "name": "Pháo",
+      "img": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_webp/avatars/d/2/e/b/d2eb54141a77ef263640d735d565615d.jpg",
+      "info": "là nữ rapper, ca sĩ thuộc tổ đội GVA, có khả năng rap và hát tốt cùng lúc, nổi bật với các ca khúc như \"Hai Phút Hơn\", \"Vietnamese Girl\"",
+      "folow": 74706,
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "tling",
+      "img": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_webp/avatars/7/2/1/b/721b3b485a51a32234f65995f0fc5923.jpg",
+      "info": "tlinh tên thật là Nguyễn Thảo Linh,sinh năm 2000 tại Hà Nội. Trong chương trình Rap Việt cô đã về đội của HLV Suboi.Cô có các bài HIT như:Thích Quá Rùi Nà, Tình Yêu Bận Bịu, Vứt Zác vv... tlinh xuất thân từ gia đình có truyền thống Y học, cả bố và mẹ đều làm bác sĩ nha khoa, thậm chí Tlinh từng là sinh viên trường Y danh giá, nhưng sau khi đã nhận ra đam mê thực thụ của mình là âm nhạc nên cô đã dừng việc học. Ngạc nhiên hơn là cả bố mẹ đều đồng ý với quyết định của tlinh và nói: \"Ok, đi làm nghệ thuật đê\".Trước khi tham gia Rap Việt, tlinh đang là thành viên của nhóm nhảy HipHop Hà Nội – Last Fire Crew. Cô có thành tích dày đặt ở nhiều lĩnh vực, bạn có thể dễ dàng nhìn thấy ở video trailer trước khi vào video chính vòng 1 Rap Việt.Sự đa tài của tlinh cũng được thể hiện khi cô nàng đã có một số bản rap nổi bật trong cộng đồng Underground với những cái tên khá ngộ nghĩnh như: Vướt zác (vào trong thùng), Thích quá rùi nà. tlinh đến với rap dù chỉ trong một thời gian ngắn nhưng cách gieo vần, chơi chữ đã hứa hẹn sẽ khiến các đối thủ phải dè chừng.",
+      "folow": 83519
+    },
+    {
+      "name": "Sơn Tùng M-TP",
+      "img": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_webp/avatars/f/b/f/1/fbf16d7352a3eea6be8cf5d4b217516d.jpg",
+      "info": "Thanh Tùng bắt đầu chơi nhạc từ cấp ba với nghệ danh M-TP và được biết đến với \"Cơn Mưa Ngang Qua\".Năm 2012, anh đậu thủ khoa Nhạc viện TPHCM và ký hợp đồng với Văn Production, đổi nghệ danh sang Sơn Tùng M-TP.Từ 2013 đến 2015, anh có nhiều bản hit như \"Em Của Ngày Hôm Qua\", \"Nắng Ấm Xa Dần\"... Năm 2015, anh rời khỏi công ty cũ và gia nhập WePro, tổ chức minishow đầu tiên \"M-TP and Friends\".Năm 2017, anh rời khỏi WePro để thành lập M-TP Entertainment, ra mắt \"Lạc Trôi\" và \"Nơi Này Có Anh\". Anh ra mắt album đầu tay \"m-tp M-TP\".Năm 2018 anh ra mắt \"Chạy Ngay Đi\" và \"Hãy Trao Cho Anh\" năm 2019. Cả hai bài hát đều trở thành hit. Đặc biệt \"Hãy Trao Cho Anh\" kết hợp với Snopp Dogg đã đưa tên tuổi anh ra thế giới.",
+      "folow": 2447691,
+      "id": 5
+    },
+    {
+      "name": "phong max",
+      "img": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_webp/avatars/b/6/5/9/b65915c9c03ba29912528d234673b882.jpg",
+      "info": "",
+      "folow": 26711,
+      "id": 6
+    },
+    {
+      "name": "minh vương",
+      "img": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_webp/cover/f/7/4/9/f7491ffdb112675f1322fd1c1c8b57bf.jpg",
+      "info": "Năm 2007, Minh Vương tham gia nhóm M4U từ những ngày đầu thành lập.Sau khi nhóm M4U tan rã, Minh Vương trở thành ca sĩ solo, anh lấy nghệ danh Minh Vương M4U để hoạt động. Vào năm 2008, Minh Vương M4U sáng tác và trình bày ca khúc Mưa, sau đó là Nhớ Em vào năm 2010.Cuối năm 2011, ca khúc Nỗi Đau Xót Xa của anh trở thành hit được yêu thích, đánh dấu sự thăng hoa trong sự nghiệp.Các năm sau đó anh đều đặn ra sản phẩm mới, nổi bật có Anh Nhớ Em Người Yêu Cũ, Em Ơi Lên Phố hay Em Sẽ Là Cô Dâu. Đặc biệt sự kết hợp giữa anh và Hương Ly trong Nắm và Thê Tử vào năm 2019 đạt được nhiều thành công.Đầu năm 2020, Minh Vương M4U trở lại với ca khúc Trúc Xinh (cùng Việt, ACV và Cuộc Sống Xa Nhà.",
+      "folow": 210582,
+      "id": 7
+    },
+    {
+      "name": "jank",
+      "img": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/8/0/3/1/80316255b2ee6f3a481f6b3423a7e0bf.jpg",
+      "info": "",
+      "folow": 3688,
+      "id": 8
+    },
+    {
+      "name": "như quỳnh",
+      "img": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_webp/avatars/d/c/4/6/dc46b91ae6e40a586283b03f31312baa.jpg",
+      "info": "Năm 1994, cô đi định cư ở nước ngoài và ký hợp đồng với Trung Tâm Asia. Các ca khúc nổi bật của cô trong giai đoạn này có thể kể đến \"Người Tình Mùa Đông\", \"Chuyện Hoa Sim\".Năm 1996, cô chuyển sang cộng tác với Trung Tâm Thúy Nga. Như Quỳnh trở thành một trong những ca sĩ hàng đầu của nền âm nhạc hải ngoại qua các bản hit như \"Nỗi Buồn Châu Pha\", \"Hoa Tím Người Xưa\"...Tuy hoạt động ở hải ngoại là chủ yếu nhưng cô có một lượng lớn người hâm mộ trong nước. Những ca khúc do Như Quỳnh thể hiện đều được khá nhiều người yêu thích. Điển hình nhất là ca khúc \"Duyên Phận\" mà cô từng thể hiện năm 2010 trở thành một hiện tượng vào những năm 2016 - 2017, khi dòng nhạc Bolero bùng nổ mạnh mẽ tại Việt Nam.",
+      "folow": 313457,
+      "id": 9
+    },
+    {
+      "name": "Quang lê",
+      "img": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_webp/avatars/9/f/3/c/9f3cb9a7e75438f0cb6c8064f54a0668.jpg",
+      "info": "Quang Lê sinh ra tại Huế, trong gia đình gồm 6 anh em và một người chị nuôi, Quang Lê là con thứ 3 trong gia đình. Đầu những năm 1990, Quang Lê theo gia đình sang định cư tại bang Missouri, Mỹ. Hoạt động ca hát ở các sân khấu hải ngoại, anh tạo nên ấn tượng sâu sắc với khán giả qua dáng vẻ thư sinh cùng giọng hát trầm ấm và giàu tình cảm đậm chất Huế. Anh liên tiếp được trung tâm phát hành liên tiếp các album và đều tạo được tiếng vang lớn. Năm 2010 đến nay, Quang Lê thường xuyên tổ chức các hoạt động biểu diễn tại Việt Nam cũng như các hoạt động khác",
+      "folow": 361481,
+      "id": 10
+    },
+    {
+      "name": "Khải Đăng",
+      "img": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/0/7/7/907799a310b3404f46d43b9899ebd5e4.jpg",
+      "info": "Năm 2010 Khải Đăng cùng gia đình sang định cư Hoa Kỳ. Trong gia\nđình có truyền thống nghệ thuật nên mấy anh em đều có chung niềm\nđam mê Ca hát. Năm 2014 Khải Đăng đã dự cuộc thi hát Vstar do\nTrung Tâm Thúy Nga tổ chức vs Đã đạt giải Quán Quân do khán giả\nbình chọn vs hiện tại đang là ca sĩ trẻ cộng tác với Trung Tâm Thúy\nNga cùng những top hit tại Hãi Ngoại như \"Từ Ngày Tình Bỏ Ta Đi, Tết\nNày Con Sẽ Về,vv...\"",
+      "folow": 0,
+      "id": 11
+    },
+    {
+      "name": "Duy Tân",
+      "img": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/a/2/a/2a2ab635e6191d7bb80255208911e53b.jpg",
+      "info": "Anh đã được biết đến nhiều nhất với 3 ca khúc là \"Dạ vũ\", \"Hết duyên\" và \"Bên trên tầng lầu\". Trong đó, ca khúc \"Bên trên tầng lầu\" đã mang lại sự nghiệp của anh nhiều nhất khi đạt vị trí quán quân BXH Top Vietnamese Songs, Hot 100 Billboard Việt Nam và 2 chiến thắng cùng 1 đề cử tại Giải thưởng Làn Sóng Xanh 2022. Ngoài rất nhiều giải thưởng lớn trong nước, Tăng Duy Tân còn là một trong những nghệ sĩ có nhiều sản phẩm âm nhạc vuơn tầm thế giới. Anh xuất sắc trở thành một trong mười nghệ sĩ có bài hát nổi bất nhất năm tại QQ Music - Trung Quốc, đáng chú ý 2 bài hát “Ngây Thơ” và “Dạ Vũ” đứng đầu nhiều BXH âm nhạc toàn Trung Quốc.[2]",
+      "folow": 0,
+      "id": 12
+    },
+    {
+      "name": "Double2T",
+      "img": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/e/e/0/cee0921237af2027de90b80066d61f63.jpg",
+      "info": "Double2T tên thật là Bùi Xuân Trường, sinh ra và lớn lên ở Tuyên Quang. Từ khi còn nhỏ, Double2T đã bộc lộ niềm yêu thích với rap khi nghe thể loại âm nhạc này từ một chiếc tivi đen trắng ở nhà. Trong những năm học phổ thông, anh bắt đầu tìm hiểu về rap và bắt đầu việc sáng tác và thu âm bài rap đầu tiên từ một chiếc tai nghe cũ ở tiệm internet.[2]\n\nTrước khi đến với Rap Việt, anh có một thời gian làm nghề cắt tóc. Anh chia sẻ, nghệ danh Double2T có ý nghĩa là 22T (22 Tuyên Quang), biển số xe quê hương anh. Ngoài ra, T còn có nghĩa là Trường (trong tên thật của anh).[2]\n\nTại Rap Việt mùa 3, anh vốn là thí sinh của đội B Ray. Sau màn trình diễn không thành công ở vòng 2, anh được BigDaddy tung nón vàng giải cứu và là thí sinh cuối cùng lọt vào chung kết Rap Việt. Anh đã đánh bại các thí sinh khác để trở thành quán quân mùa 3 của chương trình.[3]",
+      "folow": 0,
+      "id": 13
+    },
+    {
+      "name": "masew",
+      "img": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/e/5/f/2e5ff23e09b1dacccbbd1c6f1ffb4a7b.jpg",
+      "info": "Masew gắn bó với âm nhạc từ năm lớp 10 và dần nổi tiếng trong giới underground bằng những bản remix bắt tai. Anh là thành viên của AVN Team chuyên Rap, Hiphop, EDM.\nNăm 2017, Masew gây chú ý cho giới nghe nhạc đại chúng khi cùng Nhật Nguyễn, một tên tuổi khác của giới underground phối lại ca khúc \"Túy Âm\" của Xesi. Ca khúc nhanh chóng đạt thứ hạng cao trên các bảng xếp hạng âm nhạc.\nTừ đó, những bản phối của Masew rất được quan tâm, có thể kể đến \"Điều Khác Lạ\" (Đạt G, Ngọc Haleyy), \"Buồn Của Anh\" (K-ICM, Đạt G), \"Kém Duyên\" (Rum, NIT)... đặc biệt ca khúc \"Em Hơi Mệt Với Bạn Thân Anh\" do Trang Pháp sáng tác, Hương Giang trình bày với bản phối của Masew giành được giải thưởng lớn của Zing Music Awards.",
+      "folow": 0,
+      "id": 14
+    },
+    {
+      "name": "Rum",
+      "img": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/avatars/2/5/1/3/2513d20382000786aca28d0536615828.jpg",
+      "info": "Rum được khán giả biết đến qua những bản Mashup (kết hợp nhiều bài hát tạo thành bài hát hoàn chỉnh). Rum không chỉ gây chú ý bởi chất giọng đẹp, trầm ấm mà còn bởi gương mặt thư sinh, có nhiều nét giống thần tượng Hàn Quốc.\n\nNhững bản Mashup của Rum là sự kết hợp tinh tế nhiều ca khúc quen thuộc tạo nên giai điệu nghe vừa lạ lại vừa quen. Rum đến với âm nhạc khá sớm, chủ yếu do anh tự học. Để có thể thực hiện một bản Mashup hoàn chỉnh, Rum phải mất 1-2 ngày dựng và lên ý tưởng. Sau đó, Rum chọn những ca khúc có phần lời liên kết với nhau tạo nên một câu chuyện xuyên suốt cho bản Mashup.\n\nĐẹp trai, hát hay, Rum khiến cộng đồng mạng khi liên tục ra mắt những bản Mashup dân ca vô cùng độc đáo. Rum từng khiến phố đi bộ Nguyễn Huệ náo loạn bằng bản Mashup 10 ca khúc dân ca kết hợp hiện đại. Rum nhận được rất nhiều lời khen ngợi bởi sự độc đáo và tâm huyết.\n\nBản Mashup 30 hit Vpop Rum thực hiện cùng Lê Quang Hùng (Hùng Muzik) sau khi đăng tải nhận được sự quan tâm đặc biệt của giới trẻ, thu hút hàng trăm nghìn lượt xem, chia sẻ. Bản Mashup của Rum được đánh giá nhịp nhàng, tự nhiên, không mang lại cảm giác khiên cưỡng. Để có được sản phẩm âm nhạc hoàn chỉnh, cực chất như vậy đòi hỏi người làm nhạc phải có kiến thức vững vàng và tinh tế về giai điệu. Để thực hiện clip này, Rum và Lê Quang Hùng đã mất khoảng 1 tuần từ công đoạn lên ý tưởng cho đến việc phối beta, thu âm và mix nhạc... Tất cả đều do hai bạn trẻ tự thực hiện. Bên cạnh đó, giọng ca trầm ấm cùng vẻ ngoài điển trai của 2 bạn trẻ khiến khán giả vô cùng thích thú. Bản Mashup dài 6 phút gồm 30 ca khúc được yêu thích: Vợ người ta (ca sĩ Phan Mạnh Quỳnh), Ngày mai (nữ ca sĩ Tóc Tiên), Yêu không nghỉ phép (Only C), Buông (Bùi Anh Tuấn).\n\nRum từng tham gia chương trình \"Phiên bản hoàn hảo\" với bản Mashup Lỡ duyên kết hợp các ca khúc: Cò lả, Duyên phận, Ai còn chờ ai, Mưa trên phố Huế, Lại một lần nữa... và ca khúc Lạc Trôi của Sơn Tùng MTP. Bản Mashup được thể hiện trên nền nhạc RnB.",
+      "folow": 0,
+      "id": 15
+    }
+  ],
+  "song": [
+    {
+      "name": "hoa cỏ lau(office Remix)",
+      "img": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_webp/cover/6/1/9/9/619964de31327dbf8491d14d2c25533f.jpg",
+      "src": "song4.mp3",
+      "view": 1001,
+      "like": 2,
+      "time": "2:43",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "anh có đôi bàn tay(bibo remix)",
+      "img": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_webp/cover/f/f/7/0/ff70cc24baee842cb2a02cda1ff7ad68.jpg",
+      "src": "song5.mp3",
+      "view": 1000,
+      "like": 0,
+      "time": "4:24"
+    },
+    {
+      "name": "nơi này có anh(Remix)",
+      "img": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_webp/covers/c/b/cb61528885ea3cdcd9bdb9dfbab067b1_1504988884.jpg",
+      "src": "song1.mp3",
+      "view": 2004,
+      "like": 1002,
+      "time": "4:22",
+      "id": 3
+    },
+    {
+      "name": "gió(cukak remix)",
+      "img": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_webp/cover/f/0/b/5/f0b56f4e8b424bd2e1ea9ad049d58598.jpg",
+      "src": "song2.mp3",
+      "view": 1503,
+      "like": 600,
+      "time": "3:50",
+      "id": 4
+    },
+    {
+      "name": "nối lại tình xưa",
+      "img": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_webp/cover/f/a/3/3/fa3324156883a1b8f6c8711279c80b34.jpg",
+      "src": "song3.mp3",
+      "view": 1100,
+      "like": 202,
+      "time": "4:36",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "name": "tình nhỏ mau quên",
+      "img": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_webp/cover/6/d/1/5/6d1599495bf1fc37735fd2294f43f3c1.jpg",
+      "src": "song6.mp3",
+      "view": 500,
+      "like": 100,
+      "time": "4:50"
+    },
+    {
+      "name": "Em đẹp nhất trên đời",
+      "img": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/a/a/6/8/aa683e8a9417d3bea9284a8dcf78b032.jpg",
+      "src": "song8.mp3",
+      "view": 0,
+      "like": 0,
+      "time": "4:14",
+      "id": 7
+    },
+    {
+      "name": "em là chân ái của đời anh",
+      "img": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/9/b/d/5/9bd56608acd270370a7b3230fe7b72ac.jpg",
+      "src": "song9.mp3",
+      "view": 0,
+      "like": 0,
+      "time": "5:03",
+      "id": 8
+    },
+    {
+      "name": "à lôi",
+      "img": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/6/d/9/6/6d961b2a82f151a0f9af7de928e8f809.jpg",
+      "src": "song10.mp3",
+      "view": 0,
+      "like": 0,
+      "time": "3:17",
+      "id": 9
+    },
+    {
+      "name": "kém duyên",
+      "img": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/8/b/8bdfda3e88db5f9b6bf2ff7d1757e989_1510654845.jpg",
+      "src": "song11.mp3",
+      "view": 0,
+      "like": 0,
+      "time": "3:45",
+      "id": 10
+    },
+    {
+      "name": "Muộn rồi mà sao còn",
+      "img": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/e/f/6/c/ef6c9d4b97048c9911ea6069e968dadb.jpg",
+      "src": "song7.mp3",
+      "view": 1,
+      "like": 0,
+      "time": "4:36",
+      "id": 11
+    },
+    {
+      "name": "nắng ấm xa dần",
+      "img": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/b/1/b1c839bd85e6081614cf770278b8f782_1387164001.jpg",
+      "src": "song12.mp3",
+      "view": 0,
+      "like": 0,
+      "time": "3:08",
+      "id": 12
+    }
+  ],
+  "songPlaylist": [
+    {
+      "id": 1,
+      "id_song": 1,
+      "id_playlist": 2
+    },
+    {
+      "id": 2,
+      "id_song": 2,
+      "id_playlist": 1
+    },
+    {
+      "id": 3,
+      "id_song": 3,
+      "id_playlist": 1
+    },
+    {
+      "id": 4,
+      "id_song": 4,
+      "id_playlist": 1
+    },
+    {
+      "id_song": 5,
+      "id_playlist": 5,
+      "id": 5
+    },
+    {
+      "id_song": 6,
+      "id_playlist": 5,
+      "id": 6
+    },
+    {
+      "id_song": 7,
+      "id_playlist": 7,
+      "id": 7
+    },
+    {
+      "id_song": 8,
+      "id_playlist": 8,
+      "id": 8
+    },
+    {
+      "id_song": 9,
+      "id_playlist": 7,
+      "id": 9
+    },
+    {
+      "id_song": 10,
+      "id_playlist": 7,
+      "id": 10
+    },
+    {
+      "id_song": 11,
+      "id_playlist": 7,
+      "id": 11
+    },
+    {
+      "id_song": 12,
+      "id_playlist": 7,
+      "id": 12
+    }
+  ],
+  "songSinger": [
+    {
+      "id": 1,
+      "id_song": 1,
+      "id_singer": 6
+    },
+    {
+      "id": 2,
+      "id_song": 2,
+      "id_singer": 7
+    },
+    {
+      "id": 3,
+      "id_song": 3,
+      "id_singer": 5
+    },
+    {
+      "id": 4,
+      "id_song": 4,
+      "id_singer": 8
+    },
+    {
+      "id": 7,
+      "id_song": 6,
+      "id_singer": 2
+    },
+    {
+      "id": 8,
+      "id_song": 7,
+      "id_singer": 2
+    },
+    {
+      "id_song": 8,
+      "id_singer": 12,
+      "id": 9
+    },
+    {
+      "id_song": 5,
+      "id_singer": 9,
+      "id": 10
+    },
+    {
+      "id_song": 9,
+      "id_singer": 14,
+      "id": 11
+    },
+    {
+      "id_song": 9,
+      "id_singer": 13,
+      "id": 12
+    },
+    {
+      "id_song": 10,
+      "id_singer": 15,
+      "id": 13
+    },
+    {
+      "id_song": 10,
+      "id_singer": 14,
+      "id": 14
+    },
+    {
+      "id_song": 11,
+      "id_singer": 5,
+      "id": 15
+    },
+    {
+      "id_song": 12,
+      "id_singer": 5,
+      "id": 16
+    },
+    {
+      "id_song": 12,
+      "id_singer": 8,
+      "id": 17
+    }
+  ],
+  "users": [
+    {
+      "username": "luuviethoa",
+      "img": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/8/0/3/1/80316255b2ee6f3a481f6b3423a7e0bf.jpg",
+      "email": "luuviethoa@gmail.com",
+      "password": "123456",
+      "dowload": [],
+      "about": [
+        6,
+        5,
+        10,
+        2,
+        9
+      ],
+      "active": true,
+      "id": 1
+    },
+    {
+      "username": "trantrang",
+      "img": "https://tse1.mm.bing.net/th?id=OIP.9D47Z08aOdYYitk2EA58JAHaE8&pid=Api&P=0&h=180",
+      "email": "trang@gmail.com",
+      "password": "123456",
+      "dowload": [],
+      "about": [],
+      "active": true,
+      "id": 2
+    },
+    {
+      "username": "trangnguyen",
+      "img": "https://thuthuatnhanh.com/wp-content/uploads/2019/08/hinh-girl-deo-kinh-cute.jpg",
+      "email": "trangnguyen@gmail.com",
+      "password": "123456",
+      "dowload": [],
+      "about": [],
+      "active": true,
+      "id": 3
+    },
+    {
+      "username": "Hòa",
+      "img": "https://t3.ftcdn.net/jpg/02/43/12/34/360_F_243123463_zTooub557xEWABDLk0jJklDyLSGl2jrr.jpg",
+      "email": "hahahawe1239@gmail.com",
+      "password": "12345",
+      "dowload": [],
+      "about": [],
+      "active": true,
+      "id": 4
+    }
+  ]
+}
